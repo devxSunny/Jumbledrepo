@@ -12,6 +12,10 @@ answers = [
     "india",
     "america",
     "london",
+    "boston",
+    "newyork",
+    "brooklyn",
+    "scotland",
 ]
 
 words = [
@@ -22,6 +26,10 @@ words = [
     "aidin",
     "aiearcm",
     "odnlon",
+    "tnoosb",
+    "eyrnwok",
+    "ykobroln",
+    "tloacnsd",
 ]
 
 
