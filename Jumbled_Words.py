@@ -16,7 +16,12 @@ answers = [
     "newyork",
     "brooklyn",
     "scotland",
-]
+    "portugal",
+    "italy",
+    "paris",
+    "spain",
+    "argentina",
+,]
 
 words = [
     "nptoyh",
@@ -30,6 +35,11 @@ words = [
     "eyrnwok",
     "ykobroln",
     "tloacnsd",
+    "lgtoprua",
+    "yailt",
+    "srpia",
+    "ipans",
+    "retnianga",
 ]
 
 
